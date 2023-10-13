@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chirantan Paul
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on front-end related stuff
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me : paulrivu@gmail.com
 
 <!---
